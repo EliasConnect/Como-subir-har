@@ -8,7 +8,7 @@ Clique com o botão direito em qualquer lugar da tela e então em Inspecionar.
 
 ![HARfile1](https://user-images.githubusercontent.com/101209770/186229102-140c63bb-9f7f-4b84-895c-0a4d5459ba39.png)
 
-O Dev Tools será aberto, então clique na aba Network.
+O Dev Tools será aberto, então clique na aba Network ou rede (como está em alguns navedores).
 
 ![Captura de tela 2022-08-23 144908](https://user-images.githubusercontent.com/101209770/186229385-308c4e8d-f988-4301-8810-07560fa7fcff.png)
 
