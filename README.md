@@ -18,6 +18,8 @@ O botão de gravação deve estar vermelho, o que indica que está ativado. Se n
 
 Recarregue a página e reproduza a navegação na qual ocorre o problema ou faça o processo de clicks até o problema (COM O DEVTOLLS ABERTA POR FAVOR).
 
+Clique aqui para salvar o arquivo har gravado : 
+
 ![Captura de tela 2022-08-23 145354](https://user-images.githubusercontent.com/101209770/186230192-809642f1-d3bf-4996-8d31-2476e006bde9.png)
 
 Salve com um nome de sua preferencia
