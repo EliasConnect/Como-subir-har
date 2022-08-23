@@ -1,4 +1,4 @@
-# Como-subir-har
+# Como-baixar-har
 
 
 Usando o Google Chrome, siga os passos abaixo para gerar o arquivo HAR.
